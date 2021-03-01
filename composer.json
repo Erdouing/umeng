@@ -7,7 +7,7 @@
         "SDK",
         "PHP"
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "description": "友盟推送",
     "license": "MIT",
     "authors": [
