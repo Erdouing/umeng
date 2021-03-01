@@ -1,0 +1,26 @@
+{
+    "name": "Erdouing/umeng",
+    "license": "MIT",
+	"keywords": [
+        "umeng",
+        "友盟",
+        "U-Push",
+        "SDK",
+        "PHP"
+    ],
+    "authors": [
+        {
+            "name": "erdouing",
+            "email": "990806808@qq.com"
+        }
+    ],
+    "require": {
+	"guzzlehttp/guzzle": "^6.3|^7.0",
+        "php": ">=7.0"
+    },
+	"autoload": {
+        "psr-4": {
+            "Erdouing\\Umeng\\": "./src/"
+        }
+    }
+}
