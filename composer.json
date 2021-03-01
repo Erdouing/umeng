@@ -1,6 +1,5 @@
 {
     "name": "erdouing/umeng",
-    "license": "MIT",
 	"keywords": [
         "umeng",
         "友盟",
@@ -8,6 +7,9 @@
         "SDK",
         "PHP"
     ],
+    "minimum-stability": "stable",
+    "description": "友盟推送",
+    "license": "MIT",
     "authors": [
         {
             "name": "erdouing",
@@ -15,7 +17,7 @@
         }
     ],
     "require": {
-	"guzzlehttp/guzzle": "^6.3|^7.0",
+	    "guzzlehttp/guzzle": "^6.3|^7.0",
         "php": ">=7.0"
     },
 	"autoload": {
